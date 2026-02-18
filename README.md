@@ -37,14 +37,14 @@ Human Resource teams can leverage this tool to:
 <img width="335" height="438" alt="image" src="https://github.com/user-attachments/assets/3c4bc339-504b-4416-99a0-208a22b9df3a" />
 
 
-## 📊 Model & Dataset
+## Model & Dataset
 
 - **Model Type**: Decision Tree Classifier
 - **Dataset**: Kaggle HR Employee Attrition dataset
 - **Features**: Job satisfaction, years at company, overtime, salary, etc.
 - **Explainability**: SHAP (SHapley Additive exPlanations) waterfall plots
 
-## 🚀 Workflow
+## Workflow
 
 1. **User Input**: Enter Employee Index
 2. **Risk Prediction**: Model predicts attrition probability
@@ -52,7 +52,7 @@ Human Resource teams can leverage this tool to:
 4. **Recommendation**: Rule-based system generates HR-friendly suggestions
 5. **Visualization**: Results displayed on Gradio dashboard
 
-## 🔔 Slack Integration
+## Slack Integration
 
 The system includes automated Slack notifications for proactive HR intervention:
 
